@@ -1,0 +1,16 @@
+{
+  "name": "Co ty phu ESP32 WROOM",
+  "version": "1.0.2",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "cotyphuv2.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
+
